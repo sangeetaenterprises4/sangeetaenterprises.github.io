@@ -1,0 +1,25 @@
+Aadhar Card update
+Leave & Licence Agreement Registration
+Income Certificates
+Domicile Certificates
+Non-Creamy Layer Certificates
+EWS certificate 
+Caste Verification
+Residence Certificate
+Senior Citizen Certificate 
+Gumasta License 
+Udyam Aadhar
+Food license
+Digital 7/12 
+Pan card 
+Passport
+Voter id 
+PCC (Police NOC)
+Gazatte Name change 
+Jeevan praman life certificate 
+Ayushaman bharat yojana
+Maha DBT Forms
+Scholarship Forms
+School/College Admission Forms
+Government Job Online Form Filling
+All type of Smart Card
