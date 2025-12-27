@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sangeeta Enterprises – Maha E Seva Nerul</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f8fb;
+  margin: 0;
+}
+header {
+  background: #0b5ed7;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+section {
+  padding: 20px;
+}
+.box {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+.btn {
+  display: inline-block;
+  background: green;
+  color: white;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>SANGEETA ENTERPRISES</h1>
+<p>Maha E Seva Nerul – Online Form Filling Center</p>
+</header>
+
+<section>
+<div class="box">
+<h3>Government Documents & Services</h3>
+<ul>
+<li>Aadhaar Related Works</li>
+<li>PAN Card</li>
+<li>Passport Services</li>
+<li>Voter ID</li>
+<li>Driving License</li>
+<li>Domicile / Income / Residence Certificate</li>
+<li>Senior Citizen Card</li>
+<li>Caste & Non-Creamy Layer Certificate</li>
+<li>Police Character Verification</li>
+<li>Gumasta License</li>
+<li>Udyam / MSME Registration</li>
+<li>Food License (FSSAI)</li>
+<li>IT Returns Filing</li>
+<li>Scholarship Online Forms</li>
+<li>All Types of RTO Works</li>
+<li>Unemployment Registration</li>
+<li>Online Rental Agreement</li>
+<li>Government Scheme Information</li>
+</ul>
+</div>
+
+<div class="box">
+<h3>Contact Us</h3>
+<p>📞 9004345959 / 9082984326</p>
+<p>📧 sangeetaenterprises4@gmail.com</p>
+<a class="btn" href="https://wa.me/919004345959">WhatsApp Now</a>
+</div>
+</section>
+
+<footer>
+<p>© 2025 Sangeeta Enterprises – Nerul</p>
+</footer>
+
+</body>
+</html>
